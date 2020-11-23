@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: artist-web-harish
   description: The place to be, for great artists
+  archerID: 34575
   labels:
     system: public-websites
   annotations:
@@ -14,4 +15,4 @@ spec:
   type: website
   lifecycle: production
   owner: artist-relations@example.com
-  archerID: 34575
+  
