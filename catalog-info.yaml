@@ -12,7 +12,9 @@ metadata:
   tags:
     - java
 spec:
-  type: website
+  type: service
   lifecycle: production
   owner: artist-relations@example.com
+  implementsApis:
+    - petstore-harish
   
