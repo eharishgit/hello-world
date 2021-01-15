@@ -8,4 +8,4 @@ channels:
       message:
         payload:
           type: string
-          pattern: '^hello .+$'
+          pattern: '^hello 2.+$'
